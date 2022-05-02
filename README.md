@@ -1,6 +1,6 @@
 # RNN-for-optical-comms
 
-Machine learning for Advanced High speed communication links
+## Machine learning for Advanced High speed communication links
 
 Research internship, guided by Dr. Cleitus Antony Tyndall National Institute, UCC, Ireland. cleitus.antony@tyndall.ie
 
